@@ -1,0 +1,4 @@
+entity CATALOGSERVICE_BOOKINFO {
+  key ID : Integer;
+  COPIESSOLD : Integer;
+};

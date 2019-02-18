@@ -1,0 +1,8 @@
+db/src/gen/.hdinamespace
+db/src/gen/CATALOGSERVICE_BOOKINFO.hdbcds
+db/src/gen/CATALOGSERVICE_BOOKS.hdbcds
+db/src/gen/CATALOGSERVICE_BSVW.hdbcds
+db/src/gen/MY_BOOKSHOP_BOOKS.hdbcds
+db/src/gen/MY_BOOKSHOP_BOOKSALE.hdbcds
+db/src/gen/MY_BOOKSHOP_BOOKSALEVW.hdbcds
+srv/gen/csn.json

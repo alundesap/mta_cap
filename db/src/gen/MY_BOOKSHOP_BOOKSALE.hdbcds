@@ -1,0 +1,8 @@
+using MY_BOOKSHOP_BOOKS as MY_BOOKSHOP_BOOKS;
+entity MY_BOOKSHOP_BOOKSALE {
+  key ID : Integer;
+  BOOK : association to MY_BOOKSHOP_BOOKS on BOOK.ID = BOOK_ID;
+  COPIESSOLD : Integer;
+  PURCHASEDATE : LocalDate;
+  BOOK_ID : Integer;
+};
